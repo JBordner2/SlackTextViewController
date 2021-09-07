@@ -1,11 +1,11 @@
 import XCTest
-@testable import SlackTextViewControllerPackage
+@testable import SlackTextViewController
 
-final class SlackTextViewControllerPackageTests: XCTestCase {
+final class SlackTextViewControllerTests: XCTestCase {
     func testExample() throws {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(SlackTextViewControllerPackage().text, "Hello, World!")
+        XCTAssertEqual(SlackTextViewController().text, "Hello, World!")
     }
 }
