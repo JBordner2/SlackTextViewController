@@ -45,6 +45,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9DD7272026E7C21E0088A4F4 /* SlackTextViewControllerPackage */ = {isa = PBXFileReference; lastKnownFileType = folder; name = SlackTextViewControllerPackage; path = ../SlackTextViewControllerPackage; sourceTree = "<group>"; };
 		F522536B1CBE2F85002EECA9 /* SLKInputAccessoryView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SLKInputAccessoryView.h; sourceTree = "<group>"; };
 		F522536C1CBE2F85002EECA9 /* SLKInputAccessoryView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SLKInputAccessoryView.m; sourceTree = "<group>"; };
 		F522536D1CBE2F85002EECA9 /* SLKTextInput.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SLKTextInput.h; sourceTree = "<group>"; };
@@ -97,6 +98,7 @@
 		F5A7826A1BD0CEF300EC230B = {
 			isa = PBXGroup;
 			children = (
+				9DD7272026E7C21E0088A4F4 /* SlackTextViewControllerPackage */,
 				F5A782761BD0CEF300EC230B /* SlackTextViewController */,
 				F5B4E78F1C4DA053005CBBE0 /* SlackTextViewControllerTests */,
 				F5A782751BD0CEF300EC230B /* Products */,
@@ -245,6 +247,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
